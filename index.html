@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News & weather project</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="weather.js"></script>
+    <script src="news.js"></script>
+</head>
+<body>
+<!--This is weather section-->
+    <section id="hero">
+    <h2 id="cityName">Detecting your city...</h2>
+    <img id="cityImg" />
+    <div id="weather"></div>
+    </section>
+
+    <!--This is news section-->
+    <section id="news">
+    <input type="text" id="searchInput" placeholder="Search news ...">
+    <button onclick="FetchData()">Search</button>
+    <div id="card"></div>
+    </section>
+</body>
+</html>
