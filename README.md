@@ -1,5 +1,5 @@
 # News & Weather Dashboard
-![Project Banner](./banner.png)
+![Project Banner](/banner.png)
 ---
 
 ## Overview
@@ -50,7 +50,7 @@ This project is a **News & Weather Dashboard** web app that combines real-time n
 
 1. **Clone the repository:**
    ```bash
-   git clone repo-link
+   git clone https://github.com/HamzaAlshaheen/Live-news-and-weather-app.git
 
 ## Setup
 
