@@ -1,5 +1,5 @@
 # News & Weather Dashboard
-![Project Banner](/banner.png)
+![Project Banner](/Banner.png)
 ---
 
 ## Overview
